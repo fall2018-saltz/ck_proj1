@@ -46,8 +46,11 @@
         {
             "desc": "",
             "name": "createSubset.R"
+        },
+        {
+            "name": "smallerFile.csv"
         }
     ],
-    "updated_at": "2018-09-27 15:26:39",
+    "updated_at": "2018-09-27 15:29:16",
     "url": "https://github.com/fall2018-saltz/ck_proj1"
 }
