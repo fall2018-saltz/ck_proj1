@@ -23,6 +23,11 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [],
+            "source": "data.csv",
+            "target": "createSubset.R"
         }
     ],
     "nodes": [
@@ -43,6 +48,6 @@
             "name": "createSubset.R"
         }
     ],
-    "updated_at": "2018-09-27 15:23:14",
+    "updated_at": "2018-09-27 15:26:39",
     "url": "https://github.com/fall2018-saltz/ck_proj1"
 }
