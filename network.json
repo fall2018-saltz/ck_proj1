@@ -11,7 +11,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "raw_data.csv",
+            "source": "scprc_est_2017_18_pop_res.csv",
             "target": "clean.R"
         },
         {
@@ -37,7 +37,7 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
+            "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
             "name": "data.csv"
@@ -56,6 +56,6 @@
             "name": "smallerFile.csv"
         }
     ],
-    "updated_at": "2018-09-27 15:29:32",
+    "updated_at": "2018-10-09 17:09:09",
     "url": "https://github.com/fall2018-saltz/ck_proj1"
 }
